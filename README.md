@@ -16,3 +16,7 @@ You need to install this in your distro in order to the program to work:
 + figlet
 + lolcat
 after that, you are ready to go.
+
+### Screenshot
+
+![Linux script](./screenshots/linux_script.gif "linux script")
