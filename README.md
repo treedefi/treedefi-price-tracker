@@ -1,4 +1,4 @@
-#Price Tracker!
+# Price Tracker!
 
 This is a repo for every single price tracking app for **$TREE** and **$SEED**
 tokens that are web or desktop based, so if you have an idea your pull request
