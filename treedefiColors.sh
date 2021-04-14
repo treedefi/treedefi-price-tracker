@@ -16,5 +16,13 @@ echo "\$ $keys $value"
 done
 };
 
-getall
+######if you dont need decorations change the next block with just the
+###### word getall to get the plain output
+while true
+do
+    printer=$(getall)
+    clear
+    echo "$printer" | figlet | lolcat
+    sleep 10
+done
 
